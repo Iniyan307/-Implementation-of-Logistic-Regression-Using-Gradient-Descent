@@ -79,14 +79,19 @@ for i,j in enumerate(np.unique(Y_set)):
 ```
 
 ## Output:
+Y_Pred:
 ![OP1](/OP1.png)
 
+Confusion_matrix:
 ![OP2](/OP2.png)
 
+Accuracy:
 ![OP3](/OP3.png)
 
+Recall_sensitivity,Recall_specificity:
 ![OP4](/OP4.png)
 
+Logistic Regression:
 ![OP5](/OP5.png)
 
 ![OP6](/OP6.png)
