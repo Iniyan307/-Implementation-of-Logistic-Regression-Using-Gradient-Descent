@@ -80,10 +80,15 @@ for i,j in enumerate(np.unique(Y_set)):
 
 ## Output:
 ![OP1](/OP1.png)
+
 ![OP2](/OP2.png)
+
 ![OP3](/OP3.png)
+
 ![OP4](/OP4.png)
+
 ![OP5](/OP5.png)
+
 ![OP6](/OP6.png)
 
 
